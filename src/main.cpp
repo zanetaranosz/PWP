@@ -2,7 +2,7 @@
 #ifdef USE_TRYGONOMETRY_DEGREE
 	#include<trygonometria.h>
 #else
-	#define USE_MATH_DEFINES
+	#define _USE_MATH_DEFINES
 	#include<math.h>
 #endif
 
