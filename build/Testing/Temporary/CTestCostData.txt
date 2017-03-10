@@ -1,0 +1,5 @@
+LaborkaPodstawowyTest 1 0.093586
+LaborkaWynikSin45 0 0
+Laborka3sek 1 0.0155983
+---
+LaborkaWynikSin45

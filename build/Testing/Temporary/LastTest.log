@@ -1,0 +1,50 @@
+Start testing: Mar 10 14:20 Œrodkowoeuropejski czas stand.
+----------------------------------------------------------
+1/3 Testing: LaborkaPodstawowyTest
+1/3 Test: LaborkaPodstawowyTest
+Command: "C:/Users/student/PWP/build/Debug/Laborka.exe"
+Directory: C:/Users/student/PWP/build
+"LaborkaPodstawowyTest" start time: Mar 10 14:20 Œrodkowoeuropejski czas stand.
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"LaborkaPodstawowyTest" end time: Mar 10 14:20 Œrodkowoeuropejski czas stand.
+"LaborkaPodstawowyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: LaborkaWynikSin45
+2/3 Test: LaborkaWynikSin45
+Command: "C:/Users/student/PWP/build/Debug/Laborka.exe" "45"
+Directory: C:/Users/student/PWP/build
+"LaborkaWynikSin45" start time: Mar 10 14:20 Œrodkowoeuropejski czas stand.
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found.Regex=[0[.,]7071
+]
+"LaborkaWynikSin45" end time: Mar 10 14:20 Œrodkowoeuropejski czas stand.
+"LaborkaWynikSin45" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: Laborka3sek
+3/3 Test: Laborka3sek
+Command: "C:/Users/student/PWP/build/Debug/Laborka.exe"
+Directory: C:/Users/student/PWP/build
+"Laborka3sek" start time: Mar 10 14:20 Œrodkowoeuropejski czas stand.
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Laborka3sek" end time: Mar 10 14:20 Œrodkowoeuropejski czas stand.
+"Laborka3sek" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 10 14:20 Œrodkowoeuropejski czas stand.

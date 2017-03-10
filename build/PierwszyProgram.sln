@@ -12,6 +12,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laborka", "Laborka.vcxproj"
 		{825A0EA4-D1D4-37F0-AC81-FA5E0253AA25} = {825A0EA4-D1D4-37F0-AC81-FA5E0253AA25}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RUN_TESTS", "RUN_TESTS.vcxproj", "{60D2E848-D99A-3F76-AFBE-4BEA170F0DA5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trygonometria", "trygonometria\Trygonometria.vcxproj", "{1FC412FC-4FA9-3CCE-A04F-51EA55D67700}"
 	ProjectSection(ProjectDependencies) = postProject
 		{825A0EA4-D1D4-37F0-AC81-FA5E0253AA25} = {825A0EA4-D1D4-37F0-AC81-FA5E0253AA25}
@@ -41,6 +45,10 @@ Global
 		{D18B004A-C495-31E9-94A0-7032DC9D4DA2}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
 		{D18B004A-C495-31E9-94A0-7032DC9D4DA2}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{D18B004A-C495-31E9-94A0-7032DC9D4DA2}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+		{60D2E848-D99A-3F76-AFBE-4BEA170F0DA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60D2E848-D99A-3F76-AFBE-4BEA170F0DA5}.Release|Win32.ActiveCfg = Release|Win32
+		{60D2E848-D99A-3F76-AFBE-4BEA170F0DA5}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{60D2E848-D99A-3F76-AFBE-4BEA170F0DA5}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{1FC412FC-4FA9-3CCE-A04F-51EA55D67700}.Debug|Win32.ActiveCfg = Debug|Win32
 		{1FC412FC-4FA9-3CCE-A04F-51EA55D67700}.Debug|Win32.Build.0 = Debug|Win32
 		{1FC412FC-4FA9-3CCE-A04F-51EA55D67700}.Release|Win32.ActiveCfg = Release|Win32
